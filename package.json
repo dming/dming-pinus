@@ -1,10 +1,10 @@
 {
   "name": "pinus",
-  "version": "1.4.2",
-  "homepage": "https://github.com/mybios/pinus",
+  "version": "2.4.2",
+  "homepage": "https://github.com/dming/dming-pinus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mybios/pinus.git"
+    "url": "https://github.com/dming/dming-pinus.git"
   },
   "scripts": {
     "build": "tsc",
